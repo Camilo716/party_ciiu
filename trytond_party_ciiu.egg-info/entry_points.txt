@@ -1,0 +1,4 @@
+
+    [trytond.modules]
+    party_ciiu = trytond.modules.party_ciiu
+    
